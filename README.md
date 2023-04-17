@@ -13,12 +13,12 @@ Some general mathematics used to solve problems.
 
 In Branch Learning JAVA
 
-Ch4:-
+1. Ch4:-
   Lambda: 
      Addition
      Operation
      OperationDemo
-Classes,Object,Constructor:-
+2. Classes,Object,Constructor:-
   Actor
   Gender
   Musician

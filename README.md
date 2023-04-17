@@ -15,13 +15,13 @@ In Branch Learning JAVA
 
 1. Ch4:-
   Lambda: 
-     Addition
-     Operation
-     OperationDemo
+     1. Addition
+     2. Operation
+     3. OperationDemo
 2. Classes,Object,Constructor:-
-  Actor
-  Gender
-  Musician
-  Human
-  MentalHealth
-  Sample
+  1. Actor
+  2. Gender
+  3. Musician
+  4. Human
+  5. MentalHealth
+  6. Sample

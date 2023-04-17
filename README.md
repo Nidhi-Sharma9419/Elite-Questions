@@ -10,3 +10,18 @@ Some general mathematics used to solve problems.
 *Python
 *C++
 *C
+
+In Branch Learning JAVA
+
+Ch4:-
+  Lambda: 
+     Addition
+     Operation
+     OperationDemo
+Classes,Object,Constructor:-
+  Actor
+  Gender
+  Musician
+  Human
+  MentalHealth
+  Sample

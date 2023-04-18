@@ -1,12 +1,11 @@
-package clssesobjconstrtor;
+package hierarchy;
 
 import java.util.List;
 
-public class Actor {
-    static final int LIFESPAN = 100;
-    private String name;
-    private int age;
-    private float height;
-    private String actingSchool;
-    private List<String> films;
+public interface Actor {
+    String getActingSchool();
+    void setActingSchool(String actingSchool);
+    List<String> getFilms();
+    void setFilms(List<String> films);
+    void addFilms(String filmName);
 }

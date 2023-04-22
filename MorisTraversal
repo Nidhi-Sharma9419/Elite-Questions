@@ -1,0 +1,22 @@
+def getrightmost(leftnode,cur):
+    while(leftnode.right!=None and leftnode.right!=cur):
+        leftnode=leftnode.right
+    return leftnode    
+def MorisTraversal(root):
+    curr = root
+    ans=[]
+    while(cur!=None):
+        leftnode=cur.left
+        if(leftnode==None):
+            ans.append(cur.val)
+            cur=cur.right
+        else:
+            rightmost = getrightmost(leftnode,cur)
+            if(rightmost.right ==None):
+                rightmost.right=cur
+                cur=cur.left
+            else:
+                rightmost.right=None
+                ans.append(cur.val)
+                cur=cur.right
+    return ans

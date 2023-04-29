@@ -102,12 +102,4 @@ return -1;
 else
 return top ->data;
 }
-Output
-*****MAIN MENU*****
-1. PUSH
-2. POP
-3. Peek
-4. DISPLAY
-5. EXIT
-Enter your option : 1
-Enter the number to be pushed on stack : 100
+

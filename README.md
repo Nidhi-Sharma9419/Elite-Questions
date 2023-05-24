@@ -13,6 +13,7 @@ Some general mathematics used to solve problems.
 
 1. Linked List
   - Add two numbers (Problem 2)
+  - Intersection of two linked list
 2. Binary Tree
 3. Dynamic Programming
 4. Sliding Window
